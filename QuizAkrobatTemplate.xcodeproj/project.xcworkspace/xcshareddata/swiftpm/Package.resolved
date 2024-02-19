@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "charts",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielgindi/Charts",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e516b04834b6e2072367f1366750c01c164e6545"
+      }
+    },
+    {
+      "identity" : "lottie-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-spm",
+      "state" : {
+        "revision" : "26d84192430ed5b104d64b8086872bb4979d65a4",
+        "version" : "4.4.0"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "a5e87a39cffdcc591f3203c11cfca68100d0b9a6",
+        "version" : "13.26.0"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "55466ae0fb29c5f21866792f05c1fc0c590d7c29",
+        "version" : "10.47.0"
+      }
+    },
+    {
+      "identity" : "stevia",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/freshOS/Stevia",
+      "state" : {
+        "revision" : "cfb1a1d2159277bb553c3dc46f3f742c0275566d",
+        "version" : "5.1.2"
+      }
+    }
+  ],
+  "version" : 2
+}
